@@ -1,1 +1,1 @@
-# Programming school Codera
+# プログラミングスクールCodera
